@@ -1196,6 +1196,12 @@ categories:
             repo_url: https://github.com/agentscope-ai/agentscope
             description: "Build and run agents you can see, understand and trust."
           - item:
+            name: Agno
+            homepage_url: https://agno.com/
+            logo: agno.png
+            repo_url: https://github.com/agno-agi/agno
+            description: "Agno is the runtime for agentic software. Use it to serve agents as production services."
+          - item:
             name: DeerFlow
             homepage_url: https://github.com/bytedance/deer-flow
             logo: deerflow.png
