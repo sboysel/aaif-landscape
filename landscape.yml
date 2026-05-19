@@ -891,6 +891,12 @@ categories:
             repo_url: https://github.com/agntcy/acp-spec
             description: ""
           - item:
+            name: Agent Client Protocol (ACP)
+            homepage_url: https://agentclientprotocol.com/
+            logo: agent-client-protocol.svg
+            repo_url: https://github.com/agentclientprotocol/agent-client-protocol
+            description: "A protocol for connecting any editor to any agent"
+          - item:
             name: OpenTelemetry AI Semantic Conventions
             homepage_url: https://github.com/open-telemetry/semantic-conventions
             logo: opentelemetry-ai-semantic-conventions.png
